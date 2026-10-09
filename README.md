@@ -23,6 +23,12 @@
   <em>Classification accuracy rate and performance metrics - Sınıflandırma doğruluk oranı ve performans metrikleri</em>
 </p>
 
+<p align="center">
+  <img width="56%" height="402" alt="image" src="https://github.com/user-attachments/assets/831b9502-a53f-4469-a561-db7df2852893" />
+  <br>
+  <em>Training and Validation Loss - Model eğitim ve validasyon (değerlendirme) Kaybı</em>
+</p>
+
 **Group JigglyPuff**
 - Gamze Aksu – 171180005
 - Cansu Ayten – 171180010
