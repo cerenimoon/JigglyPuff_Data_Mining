@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **Code Area - Kod Alanı:** Python
-- **Libraries - Kütüphaneler:**  Scikit-learn, Tensorflow / Keras, NumPy, Matplotlib 
+- **Libraries - Kütüphaneler:**  Scikit-learn, Tensorflow / Keras, NumPy, Matplotlib, Seaborn, Shap 
 - **DevOps / Infrastructure - Geliştirme ve Altyapı:** Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar
@@ -24,10 +24,17 @@
 </p>
 
 <p align="center">
+  <img width="30%" height="332" alt="image" src="https://github.com/user-attachments/assets/a53dc20a-995a-4b0b-9987-99694c5fbc9d" />
+  <br>
+  <em>Stroke prediction correlation matrix - Felç tahmininin korelasyon matrisi</em>
+</p>
+
+<p align="center">
   <img width="56%" height="402" alt="image" src="https://github.com/user-attachments/assets/831b9502-a53f-4469-a561-db7df2852893" />
   <br>
   <em>Training and Validation Loss - Model eğitim ve validasyon (değerlendirme) Kaybı</em>
 </p>
+
 
 **Group JigglyPuff**
 - Gamze Aksu – 171180005
