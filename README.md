@@ -17,7 +17,11 @@
 - **Accuracy Improvement:** Achieved a **96% accuracy rate** in stroke prediction via advanced neural network model
 - Keras sinir ağı modeliyle felç tahmininde **96% doğruluk oranı** elde edilmiştir.
 
-Group Jigglypuff
-Gamze Aksu – 171180005
-Cansu Ayten – 171180010
-Ceren Umay Özten – 181180060
+<p align="center">
+  <img width="526" height="352" alt="image" src="https://github.com/user-attachments/assets/a2383710-24b8-40de-897a-707161827811" />
+</p>
+
+**Group Jigglypuff**
+- Gamze Aksu – 171180005
+- Cansu Ayten – 171180010
+- Ceren Umay Özten – 181180060
