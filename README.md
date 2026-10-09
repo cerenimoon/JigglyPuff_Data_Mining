@@ -9,12 +9,13 @@
 - **Data Science - Veri Bilimi:**  Data preprocessing steps utilizing data insights and model performance metrics are realized. - Veri önişleme adımlarıyla veri seti hakkında bilgiler işlenmiştir ve model performans metrikleri gözlemlenmiştir. 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
-- **AI / Computer Vision:**  Scikit-learn, Keras / Tensorflow 
-- **DevOps / Infrastructure:** Jupyter Notebook, Git, Github
+- **Code Area - Kod Alanı:** Python
+- **Libraries - Kütüphaneler:**  Scikit-learn, Tensorflow / Keras, NumPy, Matplotlib 
+- **DevOps / Infrastructure - Geliştirme ve Altyapı:** Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar
 - **Accuracy Improvement:** Achieved a **96% accuracy rate** in stroke prediction via advanced neural network model
-- 
+- Keras sinir ağı modeliyle felç tahmininde **96% doğruluk oranı** elde edilmiştir.
 
 Group Jigglypuff
 Gamze Aksu – 171180005
