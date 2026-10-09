@@ -5,18 +5,17 @@
 - Bu kod tabanı, felç olasığını tahmin eden ve felç verisinden çıkarımlar edinen veri madenciliği projesini içermektedir.   
 
 ## 🚀 Key Features - Anahtar Özellikler
-- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned YOLOv5/EfficientNet architectures using Transfer Learning.
-- **Model Optimization:** Converted PyTorch weights (`.pt`) to ONNX and TensorRT formats for edge deployment.
+- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned Ker architectures using Transfer Learning.
 - **Data Engineering:** Automated image preprocessing and data stratification utilizing OpenCV.
-- **Robust Backend:** Integrated with a Django REST API backed by a optimized PostgreSQL database.
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
 - **AI / Computer Vision:** PyTorch, OpenCV, YOLOv5, TensorRT, Scikit-learn
-- **Backend & Database:** Python, Django REST Framework, PostgreSQL
+- **Backend & Database:** Python
 - **DevOps / Infrastructure:** Linux/Ubuntu, Git, Docker
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar
-- **Accuracy Improvement:** Achieved a **% accuracy rate** in stroke prediction via advanced neural network model
+- **Accuracy Improvement:** Achieved a **96% accuracy rate** in stroke prediction via advanced neural network model
+- 
 
 
 Group Jigglypuff
