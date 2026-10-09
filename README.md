@@ -6,17 +6,15 @@
 
 ## 🚀 Key Features - Anahtar Özellikler
 - **Custom Model Training - Özel Model Eğitimi:** Fine-tuned Ker architectures using Transfer Learning.
-- **Data Engineering:** Automated image preprocessing and data stratification utilizing OpenCV.
+- **Data Science - Veri Bilimi:**  data stratification utilizing OpenCV.
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
-- **AI / Computer Vision:** PyTorch, OpenCV, YOLOv5, TensorRT, Scikit-learn
-- **Backend & Database:** Python
-- **DevOps / Infrastructure:** Linux/Ubuntu, Git, Docker
+- **AI / Computer Vision:**  Scikit-learn, Keras 
+- **DevOps / Infrastructure:** Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar
 - **Accuracy Improvement:** Achieved a **96% accuracy rate** in stroke prediction via advanced neural network model
 - 
-
 
 Group Jigglypuff
 Gamze Aksu – 171180005
