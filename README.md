@@ -5,11 +5,11 @@
 - Bu kod tabanı, felç olasığını tahmin eden ve felç verisinden çıkarımlar edinen veri madenciliği projesini içermektedir.   
 
 ## 🚀 Key Features - Anahtar Özellikler
-- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned Ker architectures using Transfer Learning.
-- **Data Science - Veri Bilimi:**  data stratification utilizing OpenCV.
+- **Custom Model Training - Özel Model Eğitimi:** Fine-tuned different model architectures using Scikit-learn and Keras / Tensorflow - Farklı model mimarileri Scikit-learn ve Keras / Tensorflow uzanımında eğitilmiştir. 
+- **Data Science - Veri Bilimi:**  Data preprocessing steps utilizing data insights and model performance metrics are realized. - Veri önişleme adımlarıyla veri seti hakkında bilgiler işlenmiştir ve model performans metrikleri gözlemlenmiştir. 
 
 ## 🛠️ Tech Stack & Architecture - Teknik Özellikler ve Mimari
-- **AI / Computer Vision:**  Scikit-learn, Keras 
+- **AI / Computer Vision:**  Scikit-learn, Keras / Tensorflow 
 - **DevOps / Infrastructure:** Jupyter Notebook, Git, Github
 
 ## 📊 Performance Metrics & Results - Performans Metrikleri ve Sonuçlar
