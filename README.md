@@ -18,13 +18,12 @@
 - Keras sinir ağı modeliyle felç tahmininde **96% doğruluk oranı** elde edilmiştir.
 
 <p align="center">
-  <img width="56%" alt="image" src="https://github.com/user-attachments/assets/a2383710-24b8-40de-897a-707161827811" />
+  <img width="30%" alt="image" src="https://github.com/user-attachments/assets/a2383710-24b8-40de-897a-707161827811" />
   <br>
   <em>Classification accuracy rate and performance metrics - Sınıflandırma doğruluk oranı ve performans metrikleri</em>
 </p>
 
-<br>
-**Group Jigglypuff**
+**Group JigglyPuff**
 - Gamze Aksu – 171180005
 - Cansu Ayten – 171180010
 - Ceren Umay Özten – 181180060
